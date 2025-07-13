@@ -7,7 +7,7 @@ from telegram import Bot
 from telegram.parsemode import ParseMode
 
 # CONFIGURAZIONE
-TELEGRAM_BOT_TOKEN = '7767698015:AAEW8sx6NR1MUWWw_81xjxqCS3GB5v8rEh0'
+TELEGRAM_BOT_TOKEN = '7767698015:AAHlONl3PBYq55xIYWCqT9CGpHe4BkIBlxQ'
 TELEGRAM_CHAT_ID = '1964627141'
 INTERVALLO = 30  # intervallo in secondi
 
